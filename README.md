@@ -1,7 +1,8 @@
-# Hi there👋🏻
+# Hi there 👋🏻
 
-I`m Kairu. Aspiring Fullstack Developer in the Philippines. 
-Currently pursuing a Bachelor of Science in Information Technology, where I’m developing my skills in software and web development.
+I'm Kairu. Aspiring Fullstack Developer in the Philippines.
+
+Currently pursuing a Bachelor of Science in Information Technology, where I'm developing my skills in software and web development.
 
 I enjoy building responsive websites, learning modern technologies, and turning ideas into meaningful digital experiences.
 
@@ -15,12 +16,10 @@ I enjoy building responsive websites, learning modern technologies, and turning 
 
 ## Fun Fact
 
-<ul>
-  <li>I like cats</li>
-  <li>I don't like coffee</li>
-  <li>My hobbies are gaming, reading, and planning things.</li>
-  <li>My favorite game is Assassin`s Creedli>
-</ul>
+- I like cats 🐈
+- I don't like coffee ☕
+- My hobbies are gaming, reading, and planning things.
+- My favorite game is Assassin's Creed 🎮
 
 <!--
 **kylemartin21zapata-art/kylemartin21zapata-art** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
