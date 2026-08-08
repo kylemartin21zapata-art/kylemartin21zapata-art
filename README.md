@@ -1,4 +1,4 @@
-# Hi there 👋🏻
+# Hi there! 👋🏻
 
 I'm Kairu. Aspiring Fullstack Developer in the Philippines.
 
