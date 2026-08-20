@@ -12,7 +12,7 @@ I enjoy building responsive websites, learning modern technologies, and turning 
 - Java
 - JavaScript
 - React
-- Tailwind CSS
+- Node.JS
 
 ## Fun Fact
 
