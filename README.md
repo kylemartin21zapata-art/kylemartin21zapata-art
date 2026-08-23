@@ -6,7 +6,7 @@ Currently pursuing a Bachelor of Science in Information Technology, where I'm de
 
 I enjoy building responsive websites, learning modern technologies, and turning ideas into meaningful digital experiences.
 
-## Tech Stack
+## Tech Stacks
 
 - Python
 - Java
