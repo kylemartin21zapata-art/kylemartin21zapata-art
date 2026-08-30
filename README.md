@@ -13,6 +13,7 @@ I enjoy building responsive websites, learning modern technologies, and turning 
 - JavaScript
 - React
 - Node.JS
+- MySQL
 
 ## Fun Fact
 
