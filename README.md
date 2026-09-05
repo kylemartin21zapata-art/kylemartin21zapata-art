@@ -22,7 +22,7 @@ I enjoy building responsive websites, learning modern technologies, and turning 
 - My hobbies are gaming, reading, and planning things.
 - My favorite game is Assassin's Creed 🎮
 
-View my portfolio: https://portfolio-xi-self-67.vercel.app/
+View my portfolio: 
 <!--
 **kylemartin21zapata-art/kylemartin21zapata-art** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
