@@ -10,6 +10,7 @@ I enjoy building responsive websites, learning modern technologies, and turning 
 
 - Python
 - Java
+- HTML
 - JavaScript
 - React
 - Node.JS
